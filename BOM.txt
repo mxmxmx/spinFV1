@@ -53,7 +53,7 @@ misc:
 
 =============================
 
-daughter-board
+/* non-main-board */
 
 - attiny85 (DIP-8): 1x
 - DIP-8 IC socket : 1x
