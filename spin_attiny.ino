@@ -1,4 +1,10 @@
+/*
 
+programme select 
+
+you want to/have to use the internal clock. 1Mhz should do.
+
+*/
 
 volatile uint8_t _buttonpress = false;
 uint8_t prg_counter;
