@@ -1,4 +1,4 @@
-// write binary to FV-1, using atmega328 (or what not)
+// write binary to eeprom, using atmega328 (or what not)
 
 #include <Wire.h>    
  
