@@ -4,7 +4,7 @@
  
 #define disk1 0x50    //eeprom address
  
-extern prog_uchar PROGMEM image[]; // binary data
+extern const PROGMEM uint8_t image[]; // binary data
 
 unsigned int address = 0;
 

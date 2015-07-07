@@ -1,4 +1,4 @@
-prog_uchar PROGMEM image[] = {  
+const PROGMEM uint8_t image[] = {  
   
   // generated from spin.hex aka FV1-on-OSX-fun:
   // arm-none-eabi-objcopy -I ihex -O binary spin.hex spin.bin
