@@ -6,9 +6,7 @@ spin FV-1 eurorack thingie
 6HP, depth ~ 30mm
 
 
-![My image](https://farm4.staticflickr.com/3883/14883802007_f1d76d3747_c.jpg)
+![My image](https://c2.staticflickr.com/2/1467/25495410074_68c02ba0ed_b.jpg)
 
 
-![My image](https://farm4.staticflickr.com/3879/15067338391_cc85c57720_c.jpg)
-
-
+https://github.com/mxmxmx/spinFV1/wiki/minimal-build-guide
