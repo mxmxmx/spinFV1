@@ -59,6 +59,7 @@ misc:
 - DIP-8 IC socket : 1x
 - 1x10 RM2.54 socket (breakable precision / low profile) : 2x
 - 1x2  RM2.54 socket : 1x
+- 1x tact switch (multimecs 5E/5G)* (mouser #: 642-5GTH935)
 - jacks (kobiconn, thonkicon) : 6x
 
 
