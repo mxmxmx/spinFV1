@@ -3,9 +3,9 @@
 ======
 
 
-###main board:
+#main board:
 
-#ICs/semis:
+###ICs/semis:
 
 - spin FV 1 (SOIC-28) : 1x
 - 24LC32a EEPROM (DIP-8) : 1x
@@ -15,19 +15,19 @@
 - 1N5817 (diode, DO-41): 2x
 - NPN transistor (MMBT3904, SOT-23): 1x
 
-#SMD resistors (0805):
+###SMD resistors (0805):
 
 - 100R : 1x
 - 470R (R7***) : 1x
 - 1k : 4x
 - 2k : 1x
 - 2k2 : 1x
-— 10k : 2x (1x + grrr)
+- 10k : 2x (1x + grrr)
 - 20k : 1x
 - 33k : 7x (6x + fb)
 - 100k : 12x
 
-#SMD caps (0805):
+###SMD caps (0805):
 
 - 22pf : 1x (NP0/C0G)
 - 1n : 3x (NP0/C0G)
@@ -36,7 +36,7 @@
 - 330n : 2x (25V or better)
 - 1uF : 2x (10V or better)
 
-#misc: 
+###misc: 
 
 - silonex 32SR3 ('vactrol'): 1x
 - 22 uF capacitor (electrolytic) : 2x (25 v or better)
@@ -50,7 +50,7 @@
 - LM1117-5v0 voltage regulator, SOT-223: 1x
 - LM1117-3v3 voltage regulator, SOT-223: 1x 
 
-##non-main-board 
+#non-main-board 
 
 - attiny85 (DIP-8): 1x
 - DIP-8 IC socket : 1x
@@ -60,12 +60,12 @@
 - jacks (kobiconn, thonkicon) : 6x
 
 
-#caps: 
+###caps: 
 
 - 100nf (0805) : 7x
 - 10 uF  capacitor (electrolytic) : 1x (low ESR, 25v or better)
 
-#resistors/pots:
+###resistors/pots:
 
 - 10k  (0805) : 3x
 - 20k  (0805) : 3x
