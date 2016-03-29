@@ -75,6 +75,6 @@ resistors/pots:
 - 100k (0805) : 1x
 - 100k (through hole) : 1x
 - 50k (B/lin) 9mm alpha vertical : 1x ('blend')
-- 50-100k (B/lin) 9mm alpha vertical : 3x (VR1-3)
+- 50-100k (B/lin) 9mm alpha vertical : 3x (VR1-3) (given there's not a lot of space, i'd recommend using the [knurled version](http://smallbear-electronics.mybigcommerce.com/alpha-single-gang-9mm-right-angle-pc-mount-knurled-shaft/), and small caps, such as Rogan PT-1-P)
 
 
