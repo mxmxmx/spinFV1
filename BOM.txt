@@ -17,23 +17,24 @@ ICs/semis:
 
 SMD resistors (0805):
 
-- 100R : 3x
+- 100R : 1x
 - 470R (R7***) : 1x
-- 1k : 
-- 2k : 
+- 1k : 4x
+- 2k : 1x
 - 2k2 : 1x
-— 10k :
-- 20k :
-- 33k :
-- 100k : 
+— 10k : 2x (1x + grrr)
+- 20k : 1x
+- 33k : 7x (6x + fb)
+- 100k : 12x
 
 SMD caps (0805):
 
-- 22pf : 1x
-- 1n : 2x (NP0/C0G)
-- 100n :
-- 330n :
-- 1uF : 
+- 22pf : 1x (NP0/C0G)
+- 1n : 3x (NP0/C0G)
+- 2n2 : 1x (NP0/C0G)
+- 100n : 6x (25V or better)
+- 330n : 2x (25V or better)
+- 1uF : 2x (10V or better)
 
 misc: 
 
@@ -48,7 +49,6 @@ misc:
 - 1x2  RM2.54 pin header : 1x
 - LM1117-5v0 voltage regulator, SOT-223: 1x
 - LM1117-3v3 voltage regulator, SOT-223: 1x 
-
 
 
 =============================
